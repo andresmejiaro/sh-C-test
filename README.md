@@ -2,7 +2,7 @@
 
 This is a simple shell script to compile the main and the working functions in two different directories with the same estructure
 
-## Ussagee
+## Usage
 
 sh compileunits dir1 dir2
 
